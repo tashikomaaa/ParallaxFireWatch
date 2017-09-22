@@ -2,9 +2,8 @@
 
 A FireWatch parallax css 
 
-{::nomarkdown}
 
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -61,5 +60,3 @@ A FireWatch parallax css
 </body>
 </html>
 
-
-{:/}
